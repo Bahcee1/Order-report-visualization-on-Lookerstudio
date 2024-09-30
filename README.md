@@ -1,9 +1,9 @@
 # PRODUCT'S ORDER REPORT
 
 # Data processing
+The Data is an order dataset consisting of 21 columns and 9994 rows. Data was sourced from kaggle, data cleaning and data engineering was done on excel, calculated columns and visualization were done on google lookerstudio.
 
-
-
+# Insights and recommendations 
 ### 1. **Sales and Profit by Category**:
    **Insight**: The top-performing product category is Technology with over 50% of total profits and least discount (about 15% of total discount). Furniture category made about 32% of total sales but with about 6% of total profits which is as a result of high discounts and/or high costs.
    - **Recommendation**: Focus on improving the profitability of high-selling, low-margin products by revisiting pricing strategies, negotiating supplier costs, or reducing discounts.
